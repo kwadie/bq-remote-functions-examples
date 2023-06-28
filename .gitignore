@@ -1,0 +1,13 @@
+venv
+venv/*
+
+.idea/
+.idea/*
+
+*.iml
+
+terraform/tfvars/*
+
+terraform/.terraform/*
+terraform/.terraform
+terraform/.terraform.lock.hcl
